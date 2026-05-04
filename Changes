@@ -1,0 +1,9 @@
+Revision history for WebService::Arr
+
+0.001  2026-05-03
+    - Initial CPAN-quality scaffold for Arr clients.
+    - Added WebService::Arr::Base with JSON HTTP helpers and auth modes.
+    - Added WebService::Arr::Sonarr MVP endpoint wrappers.
+    - Added WebService::Arr umbrella helper and Radarr stub.
+    - Added deterministic fake-HTTP test suite.
+    - Added README and design specification.
